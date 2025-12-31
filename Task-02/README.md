@@ -54,6 +54,8 @@ This exploratory data analysis reveals that survival on the Titanic was strongly
 
 ## ✨ Author
 Harshvardhan Sutar
+
+
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)

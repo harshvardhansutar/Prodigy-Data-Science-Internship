@@ -4,7 +4,7 @@ This repository contains multiple data visualization tasks completed using Pytho
 
 ## Tasks
 - Task-01: Population Distribution Visualization
-- Task-02: Coming Soon
+- Task-02: Titanic Dataset – Exploratory Data Analysis (EDA)
 - Task-03: Coming Soon
 - Task-04: Coming Soon
 - Task-05: Coming Soon
